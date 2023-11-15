@@ -1,0 +1,15 @@
+{
+  "name": "backend-megaproject",
+  "version": "1.0.0",
+  "description": "Maybe all backend we want to learn...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "MERN"
+  ],
+  "author": "Aakash Thakkar",
+  "license": "ISC"
+}
